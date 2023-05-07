@@ -138,6 +138,8 @@ abnormalisht
 abnormalitet
 abnormalitete
 abnormalitetet
+aboneja
+aboneje
 abonent
 abonentë
 abonentësh
@@ -3262,6 +3264,7 @@ ajëz
 akacie
 akademi
 akademia
+akademie
 akademik
 akademike
 akademikes
@@ -3842,6 +3845,9 @@ aksionistet
 aksionisteve
 aksionistja
 aksionistë
+aksionistësh
+aksionistët
+aksionistëve
 aksionit
 aksit
 akson
@@ -5388,7 +5394,12 @@ alteruese
 altin
 alto
 altoparlant
+altoparlanti
+altoparlantit
 altoparlantë
+altoparlantësh
+altoparlantët
+altoparlantëve
 altruist
 altruiste
 altruisteje
@@ -5836,6 +5847,9 @@ amerikania
 amerikanin
 amerikanit
 amerikanizim
+amerikanizimi
+amerikanizimin
+amerikanizimit
 amerikanizma
 amerikanizmi
 amerikanizmin
@@ -6792,7 +6806,12 @@ anarkikë
 anarkinë
 anarkist
 anarkiste
+anarkistesh
+anarkistet
+anarkisteve
 anarkistë
+anarkistësh
+anarkistët
 anarkistëve
 anarkisë
 anarkizmi
@@ -9947,6 +9966,7 @@ ardhmërinë
 ardhmërish
 ardhmërisë
 ardhmërive
+ardhmëve
 ardhsh
 ardhsha
 ardhshi
@@ -11038,6 +11058,7 @@ armiqërinë
 armiqërisë
 armiqësi
 armiqësia
+armiqësie
 armiqësim
 armiqësime
 armiqësimet
@@ -14231,6 +14252,7 @@ audios
 audiosh
 audiot
 audiove
+audiovizual
 audiovizualë
 auditimi
 auditin
@@ -16180,6 +16202,8 @@ balenës
 balerin
 balerina
 balerinë
+balerinën
+balerinës
 balestër
 balet
 balete
@@ -16351,6 +16375,7 @@ ballicën
 ballicës
 ballin
 ballina
+balline
 ballinë
 ballinës
 ballishtë
@@ -17125,6 +17150,9 @@ banditizmit
 banditizëm
 banditja
 banditë
+banditësh
+banditët
+banditëve
 bandë
 bandën
 bandës
@@ -17155,6 +17183,7 @@ banjave
 banje
 banjo
 banjore
+banjove
 banjë
 banjëmari
 banjëmaria
@@ -17552,6 +17581,7 @@ barasvlerëse
 barasvlerësi
 barasvlerësin
 barasvlerësit
+baraz
 barazafrim
 barazdistancë
 barazh
@@ -17847,6 +17877,7 @@ bardhëremë
 bardhës
 bardhësh
 bardhësi
+bardhësinë
 bardhësira
 bardhësirë
 bardhësirën
@@ -17915,6 +17946,7 @@ baresin
 baresë
 baresësh
 baret
+bareve
 bargjan
 bargjanin
 bargjanit
@@ -20106,6 +20138,7 @@ bate
 batec
 batecëve
 bateri
+bateria
 baterinë
 baterish
 baterisë
@@ -21295,6 +21328,9 @@ belgjik
 belgjiku
 belgjikun
 belgjikë
+belgu
+belgun
+belgut
 belgë
 belhollë
 belhollës
@@ -21458,6 +21494,9 @@ beqari
 beqarit
 beqarllëk
 beqarë
+beqarësh
+beqarët
+beqarëve
 beqir
 ber
 berat
@@ -21621,6 +21660,8 @@ besimtaren
 besimtares
 besimtari
 besimtarin
+besimtarinë
+besimtarisë
 besimtarit
 besimtarja
 besimtarë
@@ -21712,7 +21753,10 @@ besuan
 besuar
 besuara
 besuare
+besuari
+besuarin
 besuarish
+besuarit
 besuarve
 besuat
 besueshme
@@ -21792,7 +21836,9 @@ beterja
 beterë
 betim
 betime
+betimesh
 betimet
+betimeve
 betimi
 betimin
 betimit
@@ -24098,6 +24144,7 @@ bletarisë
 bletarit
 bletarë
 bletas
+blete
 bletore
 bletoreje
 bletoren
@@ -24583,6 +24630,7 @@ blozak
 blozakë
 blozar
 blozari
+bloze
 blozë
 blozëri
 blozëria
@@ -31300,6 +31348,7 @@ butac
 butaci
 butacin
 butafori
+butaforia
 butaforik
 butak
 butake
@@ -33434,6 +33483,7 @@ censorët
 censorëve
 censura
 censurash
+censurat
 censurave
 censure
 censurim
@@ -33507,6 +33557,10 @@ censuruat
 censurë
 censurën
 censurës
+census
+censusi
+censusin
+censusit
 cent
 centaur
 centaurë
@@ -36955,6 +37009,12 @@ curret
 curri
 curril
 currila
+currilash
+currilat
+currilave
+currili
+currilin
+currilit
 currim
 currimi
 currin
@@ -37519,6 +37579,9 @@ daisë
 daj
 daja
 dajak
+dajaku
+dajakun
+dajakut
 dajakë
 dajakët
 dajallarë
@@ -38999,6 +39062,7 @@ debaklit
 debakël
 debat
 debate
+debatesh
 debatet
 debateve
 debati
@@ -41324,6 +41388,9 @@ delendis
 delenxhi
 delenxhinj
 delenxhinjve
+delenxhiu
+delenxhiun
+delenxhiut
 deles
 delesh
 deleshi
@@ -41835,6 +41902,9 @@ demokristianeje
 demokristianen
 demokristianes
 demokristianë
+demokristianësh
+demokristianët
+demokristianëve
 demokriti
 demoktarizimin
 demolo
@@ -44658,6 +44728,9 @@ dhesin
 dhespot
 dhespoti
 dhespotë
+dhespotësh
+dhespotët
+dhespotëve
 dhesë
 dhetar
 dhetare
@@ -46424,6 +46497,7 @@ diktatura
 diktaturash
 diktaturat
 diktaturave
+diktature
 diktaturë
 diktaturën
 diktaturës
@@ -46866,6 +46940,9 @@ dioptrie
 dioptrinë
 dioptrisë
 dioqeza
+dioqezash
+dioqezat
+dioqezave
 dioqezë
 dioqezës
 diorit
@@ -48139,6 +48216,7 @@ distoninë
 distonisë
 distonitë
 distopi
+distopik
 distopike
 distribucion
 distribucione
@@ -48359,6 +48437,12 @@ diversant
 diversantë
 diversion
 diversione
+diversionesh
+diversionet
+diversioneve
+diversioni
+diversionin
+diversionit
 diversionizëm
 dividend
 dividendit
@@ -50935,7 +51019,10 @@ drejtuarve
 drejtuat
 drejtues
 drejtuese
+drejtuesen
 drejtueses
+drejtuesesh
+drejtueset
 drejtueshme
 drejtueshëm
 drejtuesi
@@ -52936,6 +53023,8 @@ duel
 duele
 duelet
 dueli
+duelin
+duelit
 duet
 duete
 duetet
@@ -54429,7 +54518,10 @@ dyshuan
 dyshuar
 dyshuara
 dyshuare
+dyshuari
+dyshuarin
 dyshuarish
+dyshuarit
 dyshuarve
 dyshuarën
 dyshuarës
@@ -56122,6 +56214,7 @@ editon
 editona
 editonim
 editonte
+editor
 editoria
 editorial
 editoriale
@@ -58304,6 +58397,8 @@ ekzistues
 ekzistuese
 ekzistuesen
 ekzistueses
+ekzistueset
+ekzistueseve
 ekzistuesish
 ekzistuesve
 ekzitojnë
@@ -58740,6 +58835,12 @@ eliminatorët
 eliminatorëve
 eliminim
 eliminime
+eliminimesh
+eliminimet
+eliminimeve
+eliminimi
+eliminimin
+eliminimit
 elimino
 eliminofsh
 eliminofsha
@@ -60223,6 +60324,7 @@ epirotësh
 epirotët
 epirotëve
 episkop
+episkopale
 episkopate
 episkopatesh
 episkopatet
@@ -60440,6 +60542,7 @@ epërsie
 epërsinë
 epërsisë
 epërsitë
+epërsive
 epësh
 epët
 equina
@@ -60997,7 +61100,13 @@ estonishtes
 estonishtja
 estonë
 estrada
+estradash
+estradat
+estradave
+estrade
 estradë
+estradën
+estradës
 estrogjen
 estrogjene
 estrogjenet
@@ -62570,6 +62679,8 @@ fajësimi
 fajësimin
 fajësimit
 fajësinë
+fajësisë
+fajësitë
 fajëso
 fajësohej
 fajësohem
@@ -62801,6 +62912,10 @@ faktuakëshim
 faktuakëshin
 faktuakëshit
 faktual
+faktuale
+faktualesh
+faktualet
+faktualeve
 faktuam
 faktuan
 faktuar
@@ -64044,6 +64159,7 @@ farmaceutikja
 farmaceutikë
 farmaceutikës
 farmaci
+farmacinë
 farmacist
 farmaciste
 farmacisten
@@ -64058,6 +64174,8 @@ farmacistë
 farmacistësh
 farmacistët
 farmacistëve
+farmacisë
+farmacitë
 farmak
 farmakolog
 farmakologe
@@ -65971,7 +66089,17 @@ figuracioni
 figuracionin
 figural
 figurant
+figurante
+figurantesh
+figurantet
+figuranteve
+figuranti
+figurantin
+figurantit
 figurantë
+figurantësh
+figurantët
+figurantëve
 figurash
 figurat
 figurativ
@@ -67139,6 +67267,9 @@ finaliste
 finalisteje
 finalisten
 finalistes
+finalisti
+finalistin
+finalistit
 finalistja
 finalistë
 finalistësh
@@ -68328,6 +68459,7 @@ fjeta
 fjete
 fjeti
 fjetje
+fjetjeje
 fjetjen
 fjetjes
 fjetjesh
@@ -69904,6 +70036,9 @@ foltore
 foltoreje
 foltoren
 foltores
+foltoresh
+foltoret
+foltoreve
 foltorja
 foltë
 folu
@@ -70484,8 +70619,10 @@ formën
 formës
 formësim
 formësime
+formësimesh
 formësimet
 formësimeve
+formësimi
 formësimin
 formësimit
 formëso
@@ -70821,6 +70958,7 @@ fotograf
 fotografe
 fotografi
 fotografia
+fotografie
 fotografik
 fotografike
 fotografikë
@@ -72916,6 +73054,7 @@ fshikullimet
 fshikullimeve
 fshikullimi
 fshikullimin
+fshikullimit
 fshikullimë
 fshikullo
 fshikullohej
@@ -73498,6 +73637,9 @@ fugësh
 fugët
 fukadrugë
 fukara
+fukarai
+fukarain
+fukarait
 fukaraja
 fukaraje
 fukarallëk
@@ -74247,6 +74389,9 @@ furriku
 furrikun
 furrikut
 furrnalta
+furrnaltash
+furrnaltat
+furrnaltave
 furrnaltë
 furro
 furrofsh
@@ -74976,8 +75121,10 @@ fëlliqur
 fëlliqura
 fëlliqure
 fëlliqësi
+fëlliqësinë
 fëlliqësira
 fëlliqësirë
+fëlliqësisë
 fëlliqët
 fëmija
 fëmije
@@ -75307,6 +75454,8 @@ fëshfërijnë
 fëshfërijë
 fëshfërima
 fëshfërimë
+fëshfërimën
+fëshfërimës
 fëshfërin
 fëshfërini
 fëshfërinin
@@ -79157,6 +79306,11 @@ gjegjësit
 gjegjësoj
 gjegjësve
 gjegjët
+gjehem
+gjehen
+gjeheshim
+gjeheshin
+gjeheshit
 gjehet
 gjehu
 gjehuni
@@ -79965,6 +80119,9 @@ gjermane
 gjermaneje
 gjermanen
 gjermanes
+gjermanesh
+gjermanet
+gjermaneve
 gjermani
 gjermania
 gjermanike
@@ -80555,6 +80712,7 @@ gjinjtë
 gjinjve
 gjinjë
 gjinjës
+gjinkalle
 gjinkallë
 gjinokuq
 gjinor
@@ -81558,6 +81716,7 @@ gjurmëlënëse
 gjurmëlënëset
 gjurmëmushkë
 gjurmën
+gjurmës
 gjurmët
 gjurmëve
 gjuë
@@ -86267,6 +86426,7 @@ grumbullimeve
 grumbullimi
 grumbullimin
 grumbullimit
+grumbullin
 grumbullit
 grumbullo
 grumbullofsh
@@ -86417,6 +86577,7 @@ grupazh
 grupazhe
 grupe
 grupe-grupe
+grupesh
 grupet
 grupeve
 grupi
@@ -87586,7 +87747,10 @@ gumëzhimë
 gumëzhimën
 gumëzhimës
 gumëzhin
+gumëzhini
 gumëzhinim
+gumëzhinin
+gumëzhinit
 gumëzhinte
 gumëzhinë
 gumëzhirë
@@ -87776,6 +87940,9 @@ gurakuqit
 guralec
 guralecash
 guralecë
+guralecësh
+guralecët
+guralecëve
 guramel
 gurapec
 gurapesh
@@ -89742,6 +89909,9 @@ habitshi
 habitshim
 habitshin
 habitshme
+habitshmesh
+habitshmet
+habitshmeve
 habitshmi
 habitshëm
 habittë
@@ -92702,6 +92872,9 @@ hekurta
 hekurtar
 hekurte
 hekurudha
+hekurudhash
+hekurudhat
+hekurudhave
 hekurudhor
 hekurudhore
 hekurudhorë
@@ -94593,7 +94766,9 @@ himni
 himnin
 himnit
 himnizim
+himnizimi
 himnizimin
+himnizimit
 himnizo
 himnizofsh
 himnizofsha
@@ -96847,6 +97022,9 @@ humoristike
 humoristikë
 humoristja
 humoristë
+humoristësh
+humoristët
+humoristëve
 humorit
 humus
 humusor
@@ -98024,6 +98202,9 @@ ideologjive
 ideologu
 ideologut
 ideologë
+ideologësh
+ideologët
+ideologëve
 ideomi
 ideomotore
 ideomotorike
@@ -98845,6 +99026,7 @@ implementimeve
 implementimin
 implementohen
 implementohet
+implementoi
 implementoj
 implementojnë
 implementojë
@@ -99491,6 +99673,7 @@ inaktivojnë
 inat
 inate
 inati
+inatin
 inatos
 inatosa
 inatose
@@ -100336,6 +100519,7 @@ industrialë
 indës
 inerci
 inercia
+inercial
 inercie
 inercinë
 inercisë
@@ -100670,6 +100854,8 @@ influencuesish
 influencuesja
 influencuesve
 influencë
+influencën
+influencës
 influks
 info
 informacion
@@ -101061,8 +101247,12 @@ injorante
 injorantë
 injorim
 injorime
+injorimesh
 injorimet
 injorimeve
+injorimi
+injorimin
+injorimit
 injoro
 injorofsh
 injorofsha
@@ -102168,6 +102358,9 @@ instrumentale
 instrumentaleje
 instrumentalen
 instrumentales
+instrumentalizimesh
+instrumentalizimet
+instrumentalizimeve
 instrumentalizimin
 instrumentalizimit
 instrumentalizo
@@ -103293,6 +103486,7 @@ intuitivisht
 intuitivë
 intuitivët
 intuitë
+intuitën
 intuitës
 invadim
 invadime
@@ -103377,6 +103571,9 @@ invazion
 invazive
 invencionit
 inventar
+inventari
+inventarin
+inventarit
 inventarizim
 inventarizime
 inventarizimet
@@ -103549,6 +103746,7 @@ inxhiniere
 inxhinieret
 inxhiniereve
 inxhinieri
+inxhinieria
 inxhinierik
 inxhinierike
 inxhinierin
@@ -104206,11 +104404,14 @@ italianen
 italianes
 italiani
 italiania
+italianin
+italianit
 italianizimit
 italianizmave
 italianizmin
 italianizmit
 italianë
+italianësh
 italianët
 italianëve
 italike
@@ -105965,6 +106166,9 @@ joproletare
 jopronësor
 jopublik
 jopublike
+jopubliken
+jopublikes
+jopubliket
 jopublikë
 jopulsues
 jopërfundimtar
@@ -108023,6 +108227,7 @@ kalimit
 kalimtar
 kalimtare
 kalimtari
+kalimtaria
 kalimtarë
 kalimtarësh
 kalimtarët
@@ -109238,6 +109443,9 @@ kameras
 kamerat
 kamerave
 kamerdare
+kamerdaren
+kamerdares
+kamerdaret
 kamerie
 kamerier
 kameriere
@@ -109692,7 +109900,10 @@ kancelare
 kancelari
 kancelarik
 kancelarin
+kancelarinë
+kancelarisë
 kancelarit
+kancelaritë
 kancelarive
 kancelarë
 kancelarësh
@@ -110119,6 +110330,8 @@ kanpashë
 kantalion
 kantar
 kantata
+kantatash
+kantatat
 kantatave
 kantate
 kantatë
@@ -110128,6 +110341,9 @@ kantautor
 kantautori
 kantautorin
 kantautorë
+kantautorësh
+kantautorët
+kantautorëve
 kantier
 kantiere
 kantieresh
@@ -111496,6 +111712,9 @@ karakterit
 karakteritike
 karakterizim
 karakterizime
+karakterizimesh
+karakterizimet
+karakterizimeve
 karakterizimin
 karakterizimit
 karakterizo
@@ -111574,6 +111793,7 @@ karamelesh
 karamelet
 karameleve
 karantina
+karantine
 karantinor
 karantinore
 karantinë
@@ -113603,6 +113823,7 @@ katundesh
 katundet
 katundeve
 katundi
+katundin
 katundisht
 katundit
 katundës
@@ -113952,6 +114173,7 @@ kauza
 kauzalitet
 kauzat
 kauzative
+kauzave
 kauze
 kauzë
 kauzën
@@ -114160,6 +114382,12 @@ kaçkaritjeve
 kaçkash
 kaçkavall
 kaçkavalle
+kaçkavallesh
+kaçkavallet
+kaçkavalleve
+kaçkavalli
+kaçkavallin
+kaçkavallit
 kaçkave
 kaçke
 kaçkin
@@ -115286,8 +115514,12 @@ kilometrat
 kilometrave
 kilometrazh
 kilometrazhe
+kilometrazhesh
 kilometrazhet
 kilometrazheve
+kilometrazhi
+kilometrazhin
+kilometrazhit
 kilometri
 kilometrik
 kilometrike
@@ -115898,7 +116130,10 @@ kleçkën
 kleçkës
 klient
 kliente
+klientele
 klientelë
+klientelën
+klientelës
 klienti
 klientin
 klientit
@@ -117412,6 +117647,9 @@ kokoçelë
 kokoçule
 kokrra
 kokrra-kokrra
+kokrrash
+kokrrat
+kokrrave
 kokrriza
 kokrrizim
 kokrrizo
@@ -119232,6 +119470,7 @@ komisionimin
 komisionimit
 komisionin
 komisionit
+komisionuar
 komisurës
 komit
 komitaxhi
@@ -119932,6 +120171,9 @@ komprometim
 komprometime
 komprometimet
 komprometimeve
+komprometimi
+komprometimin
+komprometimit
 komprometo
 komprometofsh
 komprometofsha
@@ -120583,6 +120825,7 @@ konfiguronte
 konfigurosh
 konfigurova
 konfigurove
+konfigurua
 konfiguruaka
 konfiguruakam
 konfiguruakan
@@ -120926,6 +121169,9 @@ konit
 koniunksion
 koniunktiv
 koniunktura
+koniunkturash
+koniunkturat
+koniunkturave
 koniunkture
 koniunkturë
 koniunkturën
@@ -122372,6 +122618,12 @@ kontinentin
 kontinentit
 kontingjent
 kontingjente
+kontingjentesh
+kontingjentet
+kontingjenteve
+kontingjenti
+kontingjentin
+kontingjentit
 kontinuale
 kontinuitativ
 kontinuitet
@@ -122732,6 +122984,9 @@ konvejer
 konvejerë
 konveks
 konvekse
+konveksesh
+konvekset
+konvekseve
 konveksja
 konveksë
 konvencat
@@ -122868,6 +123123,9 @@ konvertuesve
 konverzacion
 konvikt
 konvikte
+konvikti
+konviktin
+konviktit
 konviktor
 konviktore
 konviktorë
@@ -123633,6 +123891,9 @@ koreano
 koreanojugor
 koreanojugore
 koreanë
+koreanësh
+koreanët
+koreanëve
 koreje
 korelatet
 korelati
@@ -126302,6 +126563,7 @@ kreshendot
 kreshendove
 kreshkë
 kreshkët
+kreshma
 kreshmi
 kreshmo
 kreshmofsh
@@ -127050,6 +127312,7 @@ krisej
 krisen
 kriset
 krishtera
+krishtere
 krishteri
 krishterim
 krishterin
@@ -131392,7 +131655,12 @@ kundraxhi
 kundrejt
 kundrim
 kundrime
+kundrimesh
 kundrimet
+kundrimeve
+kundrimi
+kundrimin
+kundrimit
 kundrina
 kundrine
 kundrinor
@@ -131657,6 +131925,7 @@ kundërpushtete
 kundërpushtetet
 kundërpyetje
 kundërpërgjigj
+kundërpërgjigja
 kundërpërgjigje
 kundërpërgjigjej
 kundërpërgjigjem
@@ -131675,6 +131944,7 @@ kundërpërgjigju
 kundërpërgjigjur
 kundërpërgjigjuri
 kundërpërgjigjëm
+kundërpërgjigjëmi
 kundërpërgjigjën
 kundërpërgjigjët
 kundërqëndroj
@@ -133009,7 +133279,9 @@ kurrizet
 kurrizeve
 kurrizgjatë
 kurrizgjerë
+kurrizi
 kurrizin
+kurrizit
 kurrizja
 kurrizka
 kurrizkam
@@ -135929,6 +136201,10 @@ laborantësh
 laborantët
 laborantëve
 laborator
+laboratore
+laboratoresh
+laboratoret
+laboratoreve
 laboratori
 laboratorik
 laboratorike
@@ -143431,6 +143707,9 @@ linte
 linç
 linçim
 linçime
+linçimesh
+linçimet
+linçimeve
 linço
 linçohej
 linçohem
@@ -144343,6 +144622,9 @@ llagavitë
 llagavitësh
 llagëm
 llagëme
+llagëmesh
+llagëmet
+llagëmeve
 llagëroj
 llahej
 llahem
@@ -144517,6 +144799,7 @@ llakëshit
 llalla
 llallë
 llamarina
+llamarine
 llamarinta
 llamarintë
 llamarinë
@@ -145125,6 +145408,7 @@ lloftare
 llogari
 llogaria
 llogaridhënie
+llogaridhënien
 llogaridhënies
 llogaridhëniet
 llogaridhënieve
@@ -145308,6 +145592,8 @@ llokkëshit
 llokma
 llokmë
 llokmëmadh
+llokmën
+llokmës
 llokni
 lloknim
 lloknin
@@ -146189,6 +146475,7 @@ logorisësh
 logorisët
 logoritë
 logorive
+logos
 logosh
 logova
 logove
@@ -146258,6 +146545,9 @@ lokacionet
 lokacionin
 lokal
 lokale
+lokalesh
+lokalet
+lokaleve
 lokali
 lokalin
 lokalisht
@@ -150060,6 +150350,7 @@ lëvrueshme
 lëvrueshëm
 lëvruesish
 lëvruesve
+lëçis
 lëçisnin
 lëçiste
 lëçit
@@ -150353,6 +150644,7 @@ maestrot
 maestrove
 mafes
 mafi
+mafia
 mafie
 mafieje
 mafien
@@ -151762,6 +152054,7 @@ malukati
 malukatin
 malë
 malësi
+malësie
 malësisë
 malësitë
 malësor
@@ -152162,6 +152455,7 @@ manovrave
 manovrim
 manovrime
 manovrimesh
+manovrimet
 manovrimeve
 manovrimi
 manovrimin
@@ -152385,6 +152679,7 @@ marcel
 marcele
 marcelet
 marceleve
+marcial
 marciali
 marcianus
 marcja
@@ -152627,6 +152922,9 @@ marksist-leninist
 marksiste
 marksiste-leniniste
 marksistë
+marksistësh
+marksistët
+marksistëve
 marksizmi
 marksizmin
 marksizmit
@@ -153773,6 +154071,12 @@ mastikë
 mastocitet
 masturbim
 masturbime
+masturbimesh
+masturbimet
+masturbimeve
+masturbimi
+masturbimin
+masturbimit
 masturbo
 masturbofsh
 masturbofsha
@@ -154407,6 +154711,7 @@ maxhallëk
 maxhar
 maxhari
 maxharit
+maxhorance
 maxhorancë
 maxhoritar
 maza
@@ -156372,7 +156677,10 @@ mbizotërojë
 mbizotëromë
 mbizotëron
 mbizotërona
+mbizotëroni
 mbizotëronim
+mbizotëronin
+mbizotëronit
 mbizotëronte
 mbizotërosh
 mbizotërova
@@ -157053,6 +157361,7 @@ mbretëreshën
 mbretëreshës
 mbretëri
 mbretëria
+mbretërie
 mbretërim
 mbretërimi
 mbretërimin
@@ -157285,6 +157594,9 @@ mbrojtje
 mbrojtjeje
 mbrojtjen
 mbrojtjes
+mbrojtjesh
+mbrojtjet
+mbrojtjeve
 mbrojtka
 mbrojtkam
 mbrojtkan
@@ -159105,6 +159417,7 @@ melëse
 membrana
 membranave
 membranë
+membranën
 membranës
 meme
 memec
@@ -159201,6 +159514,11 @@ menaxheret
 menaxhereve
 menaxheri
 menaxherial
+menaxheriale
+menaxherialen
+menaxherialesh
+menaxherialet
+menaxherialeve
 menaxherin
 menaxherit
 menaxherizëm
@@ -159550,6 +159868,9 @@ mendërz
 mendësi
 mendësia
 mendësie
+mendësimi
+mendësimin
+mendësimit
 mendësinë
 mendësish
 mendësisë
@@ -159705,6 +160026,7 @@ merakleshë
 merakli
 meraklia
 meraklie
+meraklinj
 meraklinjtë
 merakliu
 merakliun
@@ -160152,6 +160474,9 @@ mesatar
 mesatare
 mesataren
 mesatares
+mesataresh
+mesataret
+mesatareve
 mesatarisht
 mesatarë
 mesatarësh
@@ -161978,7 +162303,13 @@ miniaturiste
 miniaturë
 minibashki
 minibus
+minibusi
+minibusin
+minibusit
 minibusë
+minibusësh
+minibusët
+minibusëve
 miniekspozita
 miniekspozitë
 miniera
@@ -162663,6 +162994,7 @@ mirëkuptoji
 mirëkuptojmë
 mirëkuptojnë
 mirëkuptoju
+mirëkuptojë
 mirëkuptomë
 mirëkupton
 mirëkuptona
@@ -163049,6 +163381,9 @@ misionari
 misionarin
 misionarit
 misionarë
+misionarësh
+misionarët
+misionarëve
 misione
 misionesh
 misionet
@@ -163511,6 +163846,9 @@ mitraluat
 mitropoli
 mitropolit
 mitropolitë
+mitropolitësh
+mitropolitët
+mitropolitëve
 mitrovicas
 mitrovicasish
 mitrovicasve
@@ -164194,6 +164532,10 @@ mjeltë
 mjelë
 mjelës
 mjelëse
+mjelësen
+mjelësesh
+mjelëset
+mjelëseve
 mjelësh
 mjelësish
 mjelësve
@@ -164418,7 +164760,13 @@ mllefostë
 mllefosu
 mllefosuni
 mllefosur
+mllefosura
+mllefosurash
+mllefosurat
+mllefosurave
 mllefosuri
+mllefosurin
+mllefosurit
 mllefosëm
 mllefosën
 mllefosët
@@ -164449,6 +164797,10 @@ mobilim
 mobilime
 mobilimet
 mobilimeve
+mobilitet
+mobiliteti
+mobilitetin
+mobilitetit
 mobilizim
 mobilizime
 mobilizimet
@@ -164940,7 +165292,12 @@ module
 moduli
 modulim
 modulime
+modulimesh
 modulimet
+modulimeve
+modulimi
+modulimin
+modulimit
 modulo
 modulofsh
 modulofsha
@@ -165509,6 +165866,9 @@ mongoloid
 mongoloide
 mongoloidë
 mongolë
+mongolësh
+mongolët
+mongolëve
 monist
 moniste
 monistik
@@ -166010,6 +166370,7 @@ moralja
 moralo
 moralo-politik
 moralshme
+moralshmen
 moralshmi
 moralshëm
 moralë
@@ -166277,6 +166638,7 @@ mosbindjet
 mosbllokim
 mosbluarje
 mosbotim
+mosbërja
 mosbërje
 moscaktim
 moscilësi
@@ -166422,11 +166784,13 @@ moskandidim
 moskeqësim
 moskeqësime
 mosketier
+moskokëçarja
 moskokëçarje
 moskokëçarjeje
 moskokëçarjen
 moskokëçarjes
 moskokëçarjesh
+moskokëçarjet
 moskokëçarës
 moskokëçarëse
 moskokëçarësi
@@ -166823,7 +167187,13 @@ mostrajnim
 mostrajtim
 mostrajtime
 mostransmetim
+mostransparenca
+mostransparencash
+mostransparencat
+mostransparencave
 mostransparencë
+mostransparencën
+mostransparencës
 mostregim
 mostretje
 mostror
@@ -171436,6 +171806,9 @@ mëshikëzën
 mëshikëzës
 mëshil
 mëshim
+mëshimi
+mëshimin
+mëshimit
 mëshira
 mëshire
 mëshirim
@@ -171972,6 +172345,9 @@ nacionalsocialiste
 nacionalsocialistesh
 nacionalsocialistet
 nacionalsocialisteve
+nacionalsocialistësh
+nacionalsocialistët
+nacionalsocialistëve
 nacionalsocializmi
 nacionalsocializmit
 nacionalçlirimtar
@@ -172056,10 +172432,16 @@ naive
 naiveje
 naiven
 naives
+naivi
+naivin
+naivit
 naivitet
 naivitete
 naivitetesh
 naiviteteve
+naiviteti
+naivitetin
+naivitetit
 naivja
 naivë
 naja
@@ -174569,6 +174951,9 @@ ndotja
 ndotje
 ndotjen
 ndotjes
+ndotjesh
+ndotjet
+ndotjeve
 ndotka
 ndotkam
 ndotkan
@@ -176426,6 +176811,7 @@ ndërronim
 ndërronin
 ndërronit
 ndërronte
+ndërrosh
 ndërrova
 ndërrove
 ndërrua
@@ -177511,6 +177897,7 @@ netuat
 netull
 netulla
 netullën
+netë
 netër
 netësh
 netët
@@ -183208,6 +183595,12 @@ nishadrit
 nishadër
 nishan
 nishane
+nishanesh
+nishanet
+nishaneve
+nishani
+nishanin
+nishanit
 nishanxhi
 nishanxhiu
 nishanxhiun
@@ -184066,7 +184459,9 @@ njohura
 njohurat
 njohure
 njohuri
+njohurin
 njohurish
+njohurit
 njohuritë
 njohurive
 njohurve
@@ -184596,6 +184991,7 @@ njëjtësuara
 njëjtësuare
 njëjtësuese
 njëjtët
+njëjtëve
 njëjës
 njëjëse
 njëjësi
@@ -186080,6 +186476,7 @@ nudist
 nudistë
 nudizmi
 nudizëm
+nudo
 nuga
 nuhar
 nuhas
@@ -186227,6 +186624,10 @@ nullos
 nullë
 nullëz
 nulë
+numeracion
+numeracioni
+numeracionin
+numeracionit
 numerik
 numerike
 numerikeje
@@ -189637,6 +190038,9 @@ operatorëve
 operatë
 operave
 opereta
+operetash
+operetat
+operetave
 operetë
 operetën
 operim
@@ -189868,10 +190272,16 @@ optimalë
 optimetër
 optimist
 optimiste
+optimisti
+optimistin
+optimistit
 optimistë
 optimistësh
 optimistët
 optimistëve
+optimizimi
+optimizimin
+optimizimit
 optimizmi
 optimizmin
 optimizmit
@@ -191507,6 +191917,10 @@ paekuilibruar
 paekuilibruara
 paekuilibrueshëm
 paelektrifikuar
+paelektrifikuara
+paelektrifikuarash
+paelektrifikuarat
+paelektrifikuarave
 paelektrifikuare
 paemancipuar
 paemrish
@@ -191645,6 +192059,7 @@ pafundësi
 pafundësia
 pafundësinë
 pafundësisht
+pafundësisë
 pafundëve
 pafuqi
 pafuqishme
@@ -192437,6 +192852,9 @@ pakeshin
 pakeshit
 paket
 paketa
+paketash
+paketat
+paketave
 pakete
 paketim
 paketime
@@ -193848,6 +194266,8 @@ pambuk
 pambukore
 pambukta
 pambuktë
+pambukun
+pambukut
 pambuluar
 pambuluara
 pambyllur
@@ -193985,6 +194405,7 @@ pamundurën
 pamundurës
 pamundësi
 pamundësia
+pamundësie
 pamundësinë
 pamundësisë
 pamundësitë
@@ -194756,6 +195177,7 @@ papërcaktuar
 papërcaktuara
 papërcaktueshme
 papërcaktueshmëri
+papërcaktueshmëria
 papërcaktueshëm
 papërdhok
 papërdorshme
@@ -196879,7 +197301,10 @@ parapëlqeju
 parapëlqemë
 parapëlqen
 parapëlqena
+parapëlqeni
 parapëlqenim
+parapëlqenin
+parapëlqenit
 parapëlqente
 parapëlqeu
 parapëlqeva
@@ -198435,6 +198860,7 @@ parnasianeve
 parnasiania
 parni
 parodi
+parodia
 parodike
 parodinë
 parodisë
@@ -198711,6 +199137,9 @@ partishëm
 partisë
 partitive
 partitura
+partiturash
+partiturat
+partiturave
 partiturë
 partiturën
 partiturës
@@ -199666,6 +200095,7 @@ pastheksor
 pastheksore
 pasthirmat
 pasthirrma
+pasthirrme
 pasthirrmor
 pasthirrmore
 pasthirrmë
@@ -200272,7 +200702,12 @@ patriarkati
 patriarkatin
 patriarkatit
 patriarku
+patriarkun
+patriarkut
 patriarkë
+patriarkësh
+patriarkët
+patriarkëve
 patriarqi
 patric
 patricë
@@ -201014,6 +201449,8 @@ pelikor
 pelikula
 pelikulave
 pelikulë
+pelikulën
+pelikulës
 pelin
 pelina
 peline
@@ -202004,8 +202441,15 @@ performancës
 performativ
 performative
 performim
+performime
+performimesh
+performimet
+performimeve
 performohen
 performoj
+performojmë
+performojnë
+performojë
 performon
 performuar
 performues
@@ -202035,6 +202479,7 @@ periferike
 periferikë
 periferisë
 periferitë
+periferive
 perifokale
 perifrastik
 perifrastike
@@ -202250,7 +202695,9 @@ perkusionist
 perkusionit
 perkë
 perla
+perlash
 perlat
+perlave
 perlonit
 perlë
 permanent
@@ -203580,7 +204027,14 @@ pianikësi
 pianino
 pianist
 pianiste
+pianistes
+pianistesh
+pianistet
+pianisteve
 pianistë
+pianistësh
+pianistët
+pianistëve
 piano
 pianoforte
 pianofortë
@@ -204659,6 +205113,9 @@ pikëpjekje
 pikëpresje
 pikëpresë
 pikëpyetje
+pikëpyetjesh
+pikëpyetjet
+pikëpyetjeve
 pikëqarkës
 pikërisht
 pikërrim
@@ -205600,6 +206057,7 @@ piromani
 piromania
 piromanie
 piromanë
+piroteknik
 piroteknika
 piroteknike
 piroteknikë
@@ -206541,6 +206999,7 @@ pjesë-pjesë
 pjesëm
 pjesëmarrja
 pjesëmarrje
+pjesëmarrjeje
 pjesëmarrjen
 pjesëmarrjes
 pjesëmarrjesh
@@ -207147,6 +207606,7 @@ planerë
 planerësh
 planerët
 planerëve
+planesh
 planet
 planetar
 planetare
@@ -207511,6 +207971,8 @@ plastikave
 plastike
 plastiken
 plastikë
+plastikën
+plastikës
 plastikësh
 plastikët
 plastikëve
@@ -209725,6 +210187,7 @@ policet
 policeve
 polici
 policia
+policie
 policin
 policinë
 policisë
@@ -209739,6 +210202,7 @@ policorësh
 policorët
 policorëve
 policë
+policësh
 policët
 policëve
 poliedri
@@ -210175,6 +210639,9 @@ politologjia
 politologjinë
 politologjisë
 politologë
+politologësh
+politologët
+politologëve
 politrikë
 poliuria
 polivalence
@@ -210939,6 +211406,7 @@ portativ
 portative
 portativja
 portativë
+portave
 porte
 portet
 porteve
@@ -211062,7 +211530,9 @@ portugezen
 portugezes
 portugezesh
 portugezeve
+portugezi
 portugezin
+portugezit
 portugezë
 portugezësh
 portugezët
@@ -212364,6 +212834,8 @@ prani
 prania
 pranim
 pranime
+pranimesh
+pranimet
 pranimeve
 pranimi
 pranimin
@@ -213172,6 +213644,7 @@ predikim
 predikime
 predikimet
 predikimi
+predikimin
 predikimit
 prediko
 predikofsh
@@ -213675,6 +214148,7 @@ prema
 premi
 premier
 premiera
+premiere
 premierë
 premierën
 premierës
@@ -214137,6 +214611,9 @@ pretendente
 pretendenteje
 pretendenten
 pretendentes
+pretendenti
+pretendentin
+pretendentit
 pretendentja
 pretendentë
 pretendim
@@ -216005,6 +216482,9 @@ prognozën
 prognozës
 program
 programacion
+programacioni
+programacionin
+programacionit
 programatik
 programatike
 programatikë
@@ -216684,6 +217164,11 @@ pronaosi
 pronaosit
 pronar
 pronare
+pronaren
+pronares
+pronaresh
+pronaret
+pronareve
 pronari
 pronarin
 pronarit
@@ -218515,6 +219000,7 @@ psikosomatikja
 psikosomatikë
 psikoterapeut
 psikoterapeuti
+psikoterapeutik
 psikoterapeutit
 psikoterapeutët
 psikoterapi
@@ -218694,6 +219180,9 @@ publikuesve
 publikun
 publikut
 publikë
+publikësh
+publikët
+publikëve
 publilce
 puc
 pucarak
@@ -219345,6 +219834,7 @@ punuan
 punuar
 punuara
 punuare
+punuari
 punuarish
 punuat
 punues
@@ -220120,6 +220610,10 @@ pus
 puse
 pusesh
 puset
+puseta
+pusetash
+pusetat
+pusetave
 puseve
 push
 pusha
@@ -221004,6 +221498,7 @@ pëlhurendës
 pëlhurendëse
 pëlhurë
 pëlhurën
+pëlhurës
 pëlhurëtar
 pëlhurëtare
 pëlhurëz
@@ -221107,6 +221602,7 @@ pëlqyere
 pëlqyeri
 pëlqyerish
 pëlqyeshme
+pëlqyeshmet
 pëlqyeshmit
 pëlqyeshëm
 pëlqyet
@@ -221416,6 +221912,9 @@ përbindshme
 përbindshëm
 përbindësh
 përbindësha
+përbindëshash
+përbindëshat
+përbindëshave
 përbindëshi
 përbindëshin
 përbindëshit
@@ -223038,6 +223537,8 @@ përgjigju
 përgjigjuni
 përgjigjur
 përgjigjuri
+përgjigjurin
+përgjigjurit
 përgjigjëm
 përgjigjën
 përgjigjës
@@ -223752,7 +224253,10 @@ përjetonte
 përjetova
 përjetove
 përjetshme
+përjetshmen
+përjetshmes
 përjetshmi
+përjetshmin
 përjetshmit
 përjetshmëri
 përjetshmëria
@@ -225161,6 +225665,8 @@ përmor
 përmora
 përmorrte
 përmorrtë
+përmorrëm
+përmorrën
 përmortshme
 përmortshëm
 përmortur
@@ -225804,6 +226310,11 @@ përputhim
 përputhin
 përputhja
 përputhje
+përputhjen
+përputhjes
+përputhjesh
+përputhjet
+përputhjeve
 përputhka
 përputhkam
 përputhkan
@@ -226028,7 +226539,9 @@ përqeshim
 përqeshin
 përqeshja
 përqeshje
+përqeshjen
 përqeshjes
+përqeshjet
 përqeshka
 përqeshkam
 përqeshkan
@@ -227486,6 +227999,9 @@ përvetësuesish
 përvetësuesve
 përveç
 përveçme
+përveçmesh
+përveçmet
+përveçmeve
 përveçoj
 përveçqë
 përveçse
@@ -227525,6 +228041,8 @@ përvijonte
 përvijos
 përvijova
 përvijove
+përvijua
+përvijuan
 përvijuar
 përvijuara
 përvijësim
@@ -227918,6 +228436,7 @@ përçarjen
 përçarjes
 përçarjet
 përçart
+përçartja
 përçartje
 përçartjen
 përçartë
@@ -227986,7 +228505,10 @@ përçmoje
 përçmojmë
 përçmojnë
 përçmon
+përçmoni
 përçmonim
+përçmonin
+përçmonit
 përçmonte
 përçmova
 përçmove
@@ -228042,6 +228564,8 @@ përçudno
 përçudnohu
 përçudnoj
 përçudnoji
+përçudnojmë
+përçudnojnë
 përçudnoju
 përçudnomë
 përçudnon
@@ -230097,6 +230621,10 @@ qeramika
 qeramikash
 qeramikat
 qeramikave
+qeramike
+qeramikesh
+qeramiket
+qeramikeve
 qeramikë
 qeramikën
 qeramikës
@@ -230907,8 +231435,16 @@ qeverisët
 qeveritar
 qeveritare
 qeveritares
+qeveritaresh
+qeveritaret
+qeveritareve
+qeveritari
+qeveritarin
+qeveritarit
 qeveritarë
+qeveritarësh
 qeveritarët
+qeveritarëve
 qeveritë
 qeverive
 qezra
@@ -233174,7 +233710,10 @@ qëllojë
 qëllomë
 qëllon
 qëllona
+qëlloni
 qëllonim
+qëllonin
+qëllonit
 qëllonte
 qëllosh
 qëllova
@@ -235062,6 +235601,9 @@ rebele
 rebeleje
 rebelen
 rebeles
+rebelesh
+rebelet
+rebeleve
 rebelim
 rebelime
 rebelimi
@@ -235120,6 +235662,9 @@ rebeluat
 rebelues
 rebelueshëm
 rebelë
+rebelësh
+rebelët
+rebelëve
 rebs
 rebull
 rebus
@@ -235371,6 +235916,7 @@ redaksional
 redaksionale
 redaksionalë
 redaksisë
+redaksitë
 redaktim
 redaktime
 redaktimet
@@ -235565,6 +236111,9 @@ referentja
 referentë
 referim
 referime
+referimesh
+referimet
+referimeve
 referimi
 referimin
 referimit
@@ -235767,6 +236316,9 @@ reflektuesit
 reflektuesja
 reflektuesve
 refluks
+refluksi
+refluksin
+refluksit
 reforma
 reformacion
 reformash
@@ -236011,6 +236563,9 @@ regjiment
 regjimente
 regjimentet
 regjimenteve
+regjimenti
+regjimentin
+regjimentit
 regjimet
 regjimeve
 regjimi
@@ -236428,7 +236983,12 @@ reklamave
 reklame
 reklamim
 reklamime
+reklamimesh
+reklamimet
+reklamimeve
 reklamimi
+reklamimin
+reklamimit
 reklamist
 reklamiste
 reklamo
@@ -236881,6 +237441,10 @@ relativiten
 relativitet
 relativiteti
 relativitetin
+relativizim
+relativizimi
+relativizimin
+relativizimit
 relativizmi
 relativizmin
 relativizmit
@@ -236994,7 +237558,12 @@ rendim
 rendime
 rendiment
 rendimente
+rendimentesh
+rendimentet
+rendimenteve
 rendimenti
+rendimentin
+rendimentit
 rendimet
 rendimeve
 rendin
@@ -237239,7 +237808,9 @@ reparoj
 repart
 reparte
 repartet
+reparti
 repartin
+repartit
 repektivisht
 reper
 repere
@@ -238503,6 +239074,8 @@ revolucionarizuesja
 revolucionarizuesve
 revolucionarizëm
 revolucionarë
+revolucionarësh
+revolucionarët
 revolucionarëve
 revolucione
 revolucioneve
@@ -243862,6 +244435,7 @@ riparuesish
 riparuesja
 riparuesve
 riparë
+ripashë
 ripastrim
 ripastro
 ripastrofsh
@@ -245725,6 +246299,7 @@ risinkronizon
 risinkronizuar
 risinkronizuare
 risinë
+risish
 risistemim
 risistemo
 risistemofsh
@@ -245792,6 +246367,12 @@ risjella
 risjelli
 risjellim
 risjellin
+risjellja
+risjellje
+risjelljen
+risjelljes
+risjelljet
+risjelljeve
 risjellka
 risjellkam
 risjellkan
@@ -247797,6 +248378,7 @@ rrafc
 rrafse
 rrafsh
 rrafshe
+rrafshet
 rrafsheve
 rrafshi
 rrafshim
@@ -250562,6 +251144,8 @@ rrjedhkëshit
 rrjedhoj
 rrjedhoja
 rrjedhojë
+rrjedhojën
+rrjedhojës
 rrjedhon
 rrjedhor
 rrjedhore
@@ -252763,7 +253347,10 @@ rruvjeshkull
 rruxe
 rruxull
 rruzare
+rruzaren
+rruzares
 rruzaresh
+rruzaret
 rruzuj
 rruzujsh
 rruzujt
@@ -253205,6 +253792,7 @@ rrëmbim
 rrëmbime
 rrëmbimi
 rrëmbimin
+rrëmbimit
 rrëmbimthi
 rrëmbth
 rrëmbush
@@ -255118,6 +255706,7 @@ sajesa
 sajesash
 sajesat
 sajesave
+sajese
 sajesë
 sajesën
 sajesës
@@ -256877,6 +257466,7 @@ sedijeje
 sedijen
 sedijes
 sedilje
+sediljeje
 sediljen
 sediljesh
 sediljet
@@ -257705,6 +258295,7 @@ sensorë
 sensorësh
 sensorët
 sensorëve
+sensual
 sensualitet
 sensualizmi
 sensualizmin
@@ -257902,6 +258493,9 @@ seri
 seria
 serial
 seriale
+serialesh
+serialet
+serialeve
 seriali
 serialin
 serialit
@@ -258137,6 +258731,10 @@ servirën
 servirësh
 servirët
 servis
+servisesh
+serviseve
+servisin
+servisit
 serë
 sesa
 sesha
@@ -261098,6 +261696,8 @@ shenjtore
 shenjtoreje
 shenjtoren
 shenjtores
+shenjtoret
+shenjtoreve
 shenjtori
 shenjtorit
 shenjtorja
@@ -261118,6 +261718,9 @@ shenjtërime
 shenjtërimesh
 shenjtërimet
 shenjtërimeve
+shenjtërimi
+shenjtërimin
+shenjtërimit
 shenjtërinë
 shenjtërish
 shenjtërisht
@@ -262398,6 +263001,7 @@ shfrytëzonim
 shfrytëzonin
 shfrytëzonit
 shfrytëzonte
+shfrytëzosh
 shfrytëzova
 shfrytëzove
 shfrytëzua
@@ -262742,6 +263346,10 @@ shihu
 shihuni
 shiit
 shiitoislamik
+shiitë
+shiitësh
+shiitët
+shiitëve
 shij
 shija
 shijakase
@@ -262944,6 +263552,7 @@ shikueses
 shikuesesh
 shikueset
 shikueseve
+shikueshme
 shikueshmëri
 shikueshmëria
 shikueshmërie
@@ -265693,6 +266302,9 @@ shkishërim
 shkishërime
 shkishërimet
 shkishërimeve
+shkishërimi
+shkishërimin
+shkishërimit
 shkishëro
 shkishërohej
 shkishërohem
@@ -265717,7 +266329,10 @@ shkishërojnë
 shkishëroju
 shkishëromë
 shkishëron
+shkishëroni
 shkishëronim
+shkishëronin
+shkishëronit
 shkishëronte
 shkishërova
 shkishërove
@@ -265732,7 +266347,10 @@ shkishëruam
 shkishëruan
 shkishëruar
 shkishëruara
+shkishëruarat
 shkishëruare
+shkishëruari
+shkishëruarve
 shkishëruat
 shkisja
 shkisje
@@ -266086,6 +266704,8 @@ shkollare
 shkollareje
 shkollares
 shkollareske
+shkollari
+shkollarin
 shkollaris
 shkollarisa
 shkollarise
@@ -266128,6 +266748,7 @@ shkollarisëm
 shkollarisën
 shkollarisësh
 shkollarisët
+shkollarit
 shkollarizmi
 shkollarizmit
 shkollarizëm
@@ -268369,6 +268990,9 @@ shkupë
 shkupën
 shkupës
 shkurajim
+shkurajimi
+shkurajimin
+shkurajimit
 shkurajo
 shkurajofsh
 shkurajofsha
@@ -270689,7 +271313,10 @@ shpalosin
 shpalosini
 shpalosja
 shpalosje
+shpalosjen
+shpalosjes
 shpalosjet
+shpalosjeve
 shpaloska
 shpaloskam
 shpaloskan
@@ -274028,6 +274655,7 @@ shpëlaji
 shpëlajmë
 shpëlajnë
 shpëlaju
+shpëlajë
 shpëlaka
 shpëlakam
 shpëlakan
@@ -275467,7 +276095,10 @@ shqetësojë
 shqetësomë
 shqetëson
 shqetësona
+shqetësoni
 shqetësonim
+shqetësonin
+shqetësonit
 shqetësonte
 shqetësosh
 shqetësova
@@ -275491,6 +276122,7 @@ shqetësuese
 shqetësueseje
 shqetësuesen
 shqetësueses
+shqetësueset
 shqetësuesish
 shqetësuesja
 shqetësuesve
@@ -277375,6 +278007,12 @@ shtetndërtim
 shtetnor
 shtetrrethim
 shtetrrethime
+shtetrrethimesh
+shtetrrethimet
+shtetrrethimeve
+shtetrrethimi
+shtetrrethimin
+shtetrrethimit
 shtetërisht
 shtetëror
 shtetërore
@@ -277383,6 +278021,9 @@ shtetësi
 shtetësia
 shtetësja
 shtetëzim
+shtetëzimi
+shtetëzimin
+shtetëzimit
 shtetëzo
 shtetëzohej
 shtetëzohen
@@ -282032,6 +282673,8 @@ shëndetshmes
 shëndetshmesh
 shëndetshmet
 shëndetshmeve
+shëndetshmi
+shëndetshmin
 shëndetshmit
 shëndetshmja
 shëndetshëm
@@ -283107,6 +283750,8 @@ simfonikë
 simfoninë
 simfonisë
 simite
+simiten
+simites
 simitçi
 simkoj
 simon
@@ -283799,6 +284444,8 @@ sipërmë
 sipërndieshëm
 sipëror
 sipërore
+sipëroren
+sipërores
 sipërori
 sipërorin
 sipërorit
@@ -283952,7 +284599,9 @@ sistemik
 sistemike
 sistemim
 sistemime
+sistemimi
 sistemimin
+sistemimit
 sistemin
 sistemit
 sistemo
@@ -284901,6 +285550,9 @@ skenografinë
 skenografisë
 skenografit
 skenografë
+skenografësh
+skenografët
+skenografëve
 skenë
 skenën
 skenës
@@ -285553,6 +286205,7 @@ skulptorët
 skulptura
 skulptural
 skulpturale
+skulpturave
 skulpturoja
 skulpturoje
 skulpturojë
@@ -286646,6 +287299,8 @@ softuerik
 softuerike
 softuerikja
 softuerikë
+softuerin
+softuerit
 softuerë
 softuerësh
 softuerët
@@ -287428,6 +288083,10 @@ specialistash
 specialistat
 specialistave
 specialiste
+specialistes
+specialistesh
+specialistet
+specialisteve
 specialisti
 specialistin
 specialistit
@@ -287599,6 +288258,11 @@ spektakli
 spektaklin
 spektaklit
 spektakolar
+spektakolare
+spektakolaren
+spektakolaresh
+spektakolaret
+spektakolareve
 spektakolaritet
 spektakolarizoj
 spektakolarizues
@@ -287858,7 +288522,14 @@ spikatët
 spike
 spiker
 spikere
+spikeresh
+spikeret
+spikereve
+spikeri
+spikerin
+spikerit
 spikerë
+spikerët
 spikim
 spikin
 spikja
@@ -289307,6 +289978,9 @@ stalinisten
 stalinistes
 stalinistja
 stalinistë
+stalinizmi
+stalinizmin
+stalinizmit
 stalinizëm
 stalla
 stallat
@@ -289874,6 +290548,7 @@ stereotipikët
 stereotipikëve
 stereotipisë
 stereotipit
+stereotipitë
 stereotipive
 steresë
 steril
@@ -292028,6 +292703,7 @@ subvencione
 subvencionesh
 subvencionet
 subvencioneve
+subvencioni
 subvencionim
 subvencionime
 subvencionimesh
@@ -292036,6 +292712,7 @@ subvencionimeve
 subvencionimi
 subvencionimin
 subvencionimit
+subvencionin
 subvencionit
 subvenciono
 subvencionofsh
@@ -294441,6 +295118,7 @@ takikardi
 takikardia
 takim
 takime
+takimesh
 takimet
 takimeve
 takimi
@@ -294574,6 +295252,7 @@ takseshin
 takseshit
 takset
 taksi
+taksia
 taksidar
 taksim
 taksimet
@@ -294914,6 +295593,7 @@ tallishtën
 tallishtës
 tallja
 tallje
+talljeje
 talljes
 talljesh
 talljet
@@ -295438,6 +296118,7 @@ taroçat
 tarr
 tarrabec
 tarraca
+tarrace
 tarracimet
 tarracimin
 tarracimit
@@ -296544,8 +297225,12 @@ tekanjoze
 tekanjozeje
 tekanjozen
 tekanjozes
+tekanjozesh
+tekanjozet
+tekanjozeve
 tekanjozja
 tekanjozë
+tekat
 tekdo
 teke
 tekefundit
@@ -296672,9 +297357,13 @@ teksteve
 teksti
 tekstil
 tekstile
+tekstili
 tekstilist
 tekstiliste
+tekstilisten
+tekstilistesh
 tekstilistet
+tekstilisteve
 tekstilistëve
 tekstilë
 tekstin
@@ -298075,6 +298764,7 @@ teorikisht
 teoriko
 teorikë
 teorinë
+teorira
 teorish
 teorisien
 teorisë
@@ -298305,6 +298995,7 @@ tepërta
 tepërte
 tepërtës
 teqe
+teqesë
 ter
 tera
 terace
@@ -301895,6 +302586,7 @@ thënie
 thënien
 thënies
 thëniet
+thënit
 thënka
 thënkam
 thënkan
@@ -302249,6 +302941,7 @@ timonëve
 timos
 timpan
 timpani
+timpanin
 timpanit
 timus
 tina
@@ -302527,6 +303220,7 @@ tirana
 tiranas
 tiranase
 tiranasi
+tiranasin
 tiranasit
 tiranasve
 tiranda
@@ -303569,6 +304263,7 @@ tonusin
 tonusit
 tonë
 tonën
+tonës
 tonësh
 tonët
 tonëve
@@ -304085,6 +304780,8 @@ torrovan
 torroveshkë
 torrovile
 torrë
+torrën
+torrës
 torsion
 torta
 tortat
@@ -304795,6 +305492,7 @@ trakti
 traktin
 traktit
 traktor
+traktori
 traktorin
 traktorist
 traktoriste
@@ -306767,6 +307465,7 @@ tremujore
 tremujoreje
 tremujoren
 tremujores
+tremujori
 tremujorin
 tremujorit
 tremujorja
@@ -311930,6 +312629,7 @@ udhëtarin
 udhëtarit
 udhëtarë
 udhëtarët
+udhëtarëve
 udhëtim
 udhëtime
 udhëtimesh
@@ -312248,6 +312948,7 @@ ujitësve
 ujitët
 ujk
 ujkeshë
+ujkonja
 ujkonjë
 ujkth
 ujkthin
@@ -312590,6 +313291,7 @@ ullishtores
 ullishtoret
 ullishtorja
 ullishtë
+ullishtës
 ullore
 ulluk
 ullukuar
@@ -317611,7 +318313,10 @@ vektor
 vektorial
 vektorialja
 vektorit
+vektorë
+vektorësh
 vektorët
+vektorëve
 vekulmi
 vekutiçkë
 vekës
@@ -317968,6 +318673,7 @@ vendndalesë
 vendndalim
 vendndalimi
 vendndarjet
+vendndodhja
 vendndodhje
 vendndodhjen
 vendndodhjes
@@ -318232,6 +318938,7 @@ venerik
 venerike
 venerikja
 venerikë
+venerim
 venerohen
 venerohet
 venerologjinë
@@ -321157,6 +321864,7 @@ vezëmbajtës
 vezën
 vezëngjashëm
 vezëpjellës
+vezës
 vezësh
 vezëshitës
 vezëshitëse
@@ -321213,6 +321921,7 @@ veçoji
 veçojmë
 veçojnë
 veçoju
+veçojë
 veçomë
 veçon
 veçona
@@ -322198,6 +322907,9 @@ vipave
 vir
 viral
 virale
+viralitet
+viraliteti
+viralitetin
 viran
 virane
 viraneje
@@ -322345,6 +323057,8 @@ virtytësisë
 virua
 virulenca
 virulencë
+virulencën
+virulencës
 virulent
 virulentja
 virus
@@ -323746,6 +324460,7 @@ vjetërsim
 vjetërsimi
 vjetërsimin
 vjetërsinë
+vjetërsira
 vjetërsirë
 vjetërsisë
 vjetërso
@@ -324239,6 +324954,8 @@ vogëlushe
 vogëlusheje
 vogëlushen
 vogëlushes
+vogëlushet
+vogëlusheve
 vogëlushja
 vogëlushë
 vogëlushët
@@ -325369,6 +326086,7 @@ vringëllin
 vringëllinim
 vringëllinte
 vringëllinë
+vringëllirë
 vringëllisht
 vringëllitë
 vringëlliu
@@ -327887,6 +328605,9 @@ xhemper
 xhemperë
 xhemë
 xhenaze
+xhenazesh
+xhenazet
+xhenazeve
 xhenem
 xhenet
 xheneti
@@ -327923,6 +328644,10 @@ xhephanes
 xhephanesh
 xhepi
 xhepist
+xhepistë
+xhepistësh
+xhepistët
+xhepistëve
 xhepit
 xhepshpuar
 xhepshpuara
@@ -332847,6 +333572,7 @@ zezakët
 zezakëve
 zezat
 zezave
+zeze
 zezelinë
 zezim
 zezkë
@@ -333488,6 +334214,7 @@ zgjebëz
 zgjebëç
 zgjedh
 zgjedha
+zgjedhe
 zgjedhim
 zgjedhime
 zgjedhimesh
@@ -336753,7 +337480,10 @@ zhegoju
 zhegomë
 zhegon
 zhegra
+zhegu
 zheguli
+zhegun
+zhegut
 zhegëlinë
 zhegër
 zhejit
@@ -339459,6 +340189,7 @@ zikeq
 zilar
 zilare
 zile
+zilen
 zileps
 zilepsa
 zilepse
@@ -340110,6 +340841,7 @@ zonishtit
 zonit
 zonja
 zonjat
+zonjave
 zonjusha
 zonjushash
 zonjushat
@@ -340237,6 +340969,7 @@ zoritësh
 zoritët
 zorkadh
 zorkadhe
+zorra
 zorraxhi
 zorrovinor
 zorrovinë
@@ -340496,6 +341229,10 @@ zukatim
 zukatin
 zukatja
 zukatje
+zukatjen
+zukatjesh
+zukatjet
+zukatjeve
 zukatka
 zukatkam
 zukatkan
@@ -341905,7 +342642,9 @@ zëëmbël
 çaktivizojmë
 çaktivizojnë
 çaktivizon
+çaktivizoni
 çaktivizonim
+çaktivizonin
 çaktivizonte
 çaktivizova
 çaktivizove
@@ -342194,7 +342933,10 @@ zëëmbël
 çangë
 çangën
 çangës
+çani
 çanim
+çanin
+çanit
 çankoruar
 çanta
 çantash
@@ -343136,6 +343878,8 @@ zëëmbël
 çerdhe
 çerdhen
 çerdhes
+çerdhesh
+çerdhet
 çerdheve
 çerdhukël
 çerek
@@ -343233,6 +343977,7 @@ zëëmbël
 çevre
 çezariane
 çezmaxhi
+çezme
 çezmë
 çezmën
 çezmës
@@ -343346,8 +344091,13 @@ zëëmbël
 çiftelia
 çiftelie
 çiftelinë
+çiftelish
 çiftelist
 çiftelisë
+çiften
+çiftes
+çiftesh
+çiftet
 çifteve
 çifti
 çiftim
@@ -344617,6 +345367,8 @@ zëëmbël
 çmpihu
 çmpij
 çmpiji
+çmpijmë
+çmpijnë
 çmpiju
 çmpimë
 çmpin
@@ -345342,6 +346094,10 @@ zëëmbël
 çoroditnit
 çoroditu
 çoroditur
+çoroditura
+çoroditurash
+çoroditurat
+çoroditurave
 çoroditure
 çoroditurve
 çoroditën
