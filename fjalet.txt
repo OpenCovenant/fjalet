@@ -5509,8 +5509,6 @@ alveolës
 alzasas
 alë
 ama
-amadeus
-amadis
 amalgama
 amalgamash
 amalgamat
@@ -35969,7 +35967,6 @@ clonazepam
 clonidin
 clostridium
 clozapin
-cluster
 cmatos
 cmiroj
 cof
@@ -36370,7 +36367,6 @@ corticospinal
 corticospinalis
 corticotropin
 cortit
-costs
 cribriforme
 crog
 croga
@@ -49280,7 +49276,6 @@ docent
 docente
 docentë
 dockë
-documents
 dodaj
 dode
 doemos
@@ -56916,8 +56911,6 @@ ekosistemeve
 ekosistemi
 ekosistemin
 ekosistemit
-ekpozon
-ekpserimentit
 ekran
 ekrane
 ekranet
@@ -60118,7 +60111,6 @@ entuziazëm
 enumeracion
 enumeracione
 enumeracionet
-enver
 enverist
 enveriste
 enveristë
@@ -62319,7 +62311,6 @@ evrozona
 evrozonë
 eyjve
 ezan
-ezhdërha
 ezhektoj
 ezmer
 ezmere
@@ -94863,7 +94854,6 @@ hinkë
 hinkët
 hinkëte
 hinore
-hinterland
 hinë
 hip
 hipa
@@ -103118,7 +103108,6 @@ intervenonte
 intervenosh
 intervenova
 intervenove
-intervention
 intervenuaka
 intervenuakam
 intervenuakan
@@ -152681,8 +152670,6 @@ marcelet
 marceleve
 marcial
 marciali
-marcianus
-marcja
 mardh
 mardha
 mardhe
@@ -154706,7 +154693,6 @@ mavijuam
 mavijuan
 mavijuar
 mavijuat
-mavrokordatos
 maxhallëk
 maxhar
 maxhari
@@ -186471,7 +186457,6 @@ nuancuarat
 nuancë
 nuancën
 nuancës
-nucleuset
 nudist
 nudistë
 nudizmi
@@ -219183,7 +219168,6 @@ publikë
 publikësh
 publikët
 publikëve
-publilce
 puc
 pucarak
 puce
@@ -235665,7 +235649,6 @@ rebelë
 rebelësh
 rebelët
 rebelëve
-rebs
 rebull
 rebus
 rebuse
@@ -322790,7 +322773,6 @@ vilijams
 vilja
 vilje
 vill
-village
 villar
 ville
 villej
